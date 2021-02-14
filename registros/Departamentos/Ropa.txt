@@ -1,0 +1,15 @@
+200:Cazadora denim oversize:599:Zara:Cazadora denim oversize con cuello solapa y manga larga con puños abotonados. Dos bolsillos en pecho con solapas y dos bolsillos en cintura. Cierre frontal con botones metálicos.:/Ropa/Mujer/CazadoraDenim.jpg
+201:Camiseta con cuello redondo:149:Bershka:Camiseta con texto estampado, cuello redondo y manga corta:/Ropa/Mujer/CamisetaCuelloRedondo.jpg
+202:Camiseta con estampado:129:Bershka:JOIN LIFE Care for fiber 100% algodón orgánico. El algodón orgánico se cultiva mediante prácticas que nos ayudan a proteger la biodiversidad como la rotación de cultivos o la utilización de fertilizantes naturales.:/Ropa/Mujer/CamisetaEstampado.jpg
+203:Camiseta con estampado de leopardo:149:Bershka:Camiseta elástica con estampado leopardo, cuello pico y manga corta.:/Ropa/Mujer/CamisetaEstampadoLeopardo.jpg
+204:Mono de terciopelo fruncido:799:Bershka:Mono de terciopelo con escote pico y tirante fino. Fruncido en la cintura y cremallera oculta en espalda.:/Ropa/Mujer/MonoTerciopelo.jpg
+205:Mono cruzado con cinturón:459:Bershka:Mono cruzado de corte asimétrico y cinturón en el mismo tejido. Escote en pico y manga larga ajustada.:/Ropa/Mujer/MonoCruzadoVerde.jpg
+206:Falda efecto piel (Marrón):379:Zara:Falda efecto piel con detalle fruncido y cierre con cremallera lateral.:/Ropa/Mujer/FaldaEfectoPielMarron.jpg
+207:Falda efecto piel (Roja):379:Zara:Falda mini efecto piel con bolsillos, detalle de costuras y cierre frontal con cremallera.:/Ropa/Mujer/FaldaEfectoPielRojo.jpg
+208:Zapato Piel Vintage:1699:Aldo Conti:Zapato de piel tipo inglés. Color cuero. Horma redonda. Cordonera con cinco pasados. Costuras decorativas en el corte. Efecto piel vintage.:/Ropa/Hombre/ZapatoPielVintage.jpg
+209:Deportivo Cordones Combinado:999:Bershka:Deportivo con cordones. Combinación de colores y materiales en el corte con pieza técnica lateral. Suela combinada en color caramelo y blanco.:/Ropa/Hombre/DeportivoCordonesCombinado.jpg
+210:Jeans chinos Loose Fit:764:Bershka:Jeans chinos Loose Fit con dos bolsillos delanteros y dos bolsillos traseros. Pinzas, bajo terminado en vuelta y cierre mediante cremallera y botón.:/Ropa/Hombre/JeansLooseFit.jpg
+211:Pantalón tipo worker:594:Bershka:Pantalón tipo worker con fit ligeramente ancho y pernera recta con vuelta en bajo. Detalle de mosquetón con cuerda montañera en trabilla.Cierre frontal con cremallera y botón.:/Ropa/Hombre/PantalonWorker.jpg
+212:Camisa de piqué con cuello mao:424:Camisa de piqué con cuello mao, puños abotonados y cierre frontal con botones.:/Ropa/Hombre/CamisaCuelloMao.jpg
+213:Cazadora motera de piel:2804:Aldo Conti:Chamarra de piel color negro.:/Ropa/Hombre/CazadoraPiel.jpg
+

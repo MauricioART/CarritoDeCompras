@@ -1,0 +1,11 @@
+100:Torre Desafío Avengers:259:Marca:Torre desafío Avengers ¡ un juego de destreza y emoción! ¡ saca bloques y apila sin tirar la torre, algunos bloques tienen desafíos! juega por color o por símbolo ¡ quién tire la torre pierde!:/Juguetes/TorreAvengers.jpg
+101:Scrabble 70 Aniversario:589:Marca:El juego scrabble desafía a los jugadores a deletrear palabras usando fichas de letras con varios valores de puntuación. Las palabras pueden leerse a lo ancho o hacia abajo, y tu palabra debe usar un mosaico de letras que ya está en juego en el tablero. ¡más que solo un juego, scrabble realmente mejora tu vocabulario cuando te presentan nuevas palabras cada vez que juegas! Incluye 1 tablero de juego scrabble, fichas de 100 letras, cuatro bastidores, bolsa de azulejos y reglas.:/Juguetes/Scrabble70anios.jpg
+102:Buzz Lightyear Talking Action Figure:983:Marca:Réplica de Buzzlightyear con la voz original, alas replegables, casco retráctil y su pechera se enciende en la obscuridad. Al igual que en Toy Story, Buzz Lightyear está listo para la acción. Dice 25 frases. El botón de su armadura activa la luz láser y el sonido.:/Juguetes/BuzzLightyearHotToys.jpg
+103:Ferrari 45 RC:535:Marca:Ferrari 4581 Vehículo a control remoto y 1 control remoto:/Juguetes/Ferrari458RC.jpg
+104:Ferrari SF15-T RC:439:Marca:Ferrari SF15-T1 Vehículo a control remoto y 1 control remoto:/Juguetes/FerrariSF15-T.jpg
+105:Leapfrog Camioneta Colox Mix:739:Marca:Leapfrog camioneta color mix con luz y sonido.:/Juguetes/LeapfrogTruck.jpg
+106:Conejo Baby Gris Miyoni:215:Marca:Cría de conejo en peluche excepcionalmente producido con elevados estándares de calidad.:/Juguetes/ConejoBabyGris.jpg
+107:Rompecabezas Oscurece en el canal de Amsterdam:479:Marca:Pasa horas de diversión con este rompecabezas 1500 oscurece en el canal de Amsterdam.:/Juguetes/RompecabezasCanalAmsterdam.jpg
+108:Rompecabezas Londres desde el aire:419:Marca:Pasa horas de diversión con este rompecabezas 1500 piezas Londres desde el aire.:/Juguetes/RompecabezasLondres.jpg
+109:Rompecabezas Las Vegas Neón:449:Marca:Asómbrate al descubrir el resultado final del rompecabezas de las Vegas al apagar las luces con este innovador puzzle fosforescente que brilla en la oscuridad.:/Juguetes/RompecabezasLasVegas.jpg
+

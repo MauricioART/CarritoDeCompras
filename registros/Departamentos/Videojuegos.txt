@@ -1,0 +1,11 @@
+300:PlayStation 4 1TB:9999:Sony:Capacidad de 1 TB.Videojuegos Exclusivos.Amplia variedad de videojuegos:/Videojuegos/PlayStation4_1TB.jpg
+301:XBox One S 1TB:6499:XBOX:Incluye 2 Controles inalámbricos.Almacenamiento de 1 TB.Reproduce Películas en Blu ray 4K Ultra HD:/Videojuegos/XboxOne.jpg
+302:Nintendo Switch Neon 32GB:8099:Nintendo:Juega donde quieras.Duración de la batería hasta 6 horas.Una amplia variedad de videojuegos:/Videojuegos/Nintendo_Switch.jpg
+303:Control Inalámbrico DualShock 4 Urban:1299:Sony:Diseño ergonómico que se ajusta a tus manos.Altavoz incluido.:/Videojuegos/DualShock4Urban.jpg
+304:Control Inalámbrico DualShock 4 Negro:1149:Sony:Diseño ergonómico que se ajusta a tus manos.Altavoz incluido.:/Videojuegos/DualShock4Negro.jpg
+305:Control Inalámbrico Xbox One Blanco:1399:XBOX:Diseño ergonómico que se ajusta a tus manos.Llamativo color Blanco:/Videojuegos/ControlXboxBlanco.jpg
+306:Control Inalámbrico Xbox One Negro:1399:XBOX:Diseño ergonómico que se ajusta a tus manos.Llamativo color Blanco:/Videojuegos/ControlXboxNegro.jpg
+307:Control Inalámbrico Xbox One Light Green:1399_XBOX:Diseño ergonómico que se ajusta a tus manos.Cuenta con conectividad Bluetooth:/Videojuegos/ControlXboxLightGreen.jpeg
+308:Assassins Creed: Origins Xbox One:799:XBOX:Clasificación- M 17 Años en adelante.Género- Acción.:/Videojuegos/AssasinsCreedO.jpg
+309:Spiderman PS4:1109:Sony:Clasificación- T 13 Años en adelante.Género- Aventura.:/Videojuegos/SpidermanPS4.jpg
+
